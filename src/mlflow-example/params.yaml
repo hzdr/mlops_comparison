@@ -1,0 +1,7 @@
+model_type: ElasticNet
+lr: 0.01
+random_state: 42
+
+train:
+  alpha: 0.5
+  l1_rate: 0.5
