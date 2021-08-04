@@ -1,6 +1,6 @@
 ## General:
 
-This repo contains the code and comparison table on which my blogpost [Comparing Metaflow, MLFlow and DVC](!https://nsultova.medium.com/) was build upon.
+This repo contains the code and comparison table on which my blogpost [Comparing Metaflow, MLFlow and DVC](https://nsultova.medium.com/) was build upon.
 
 In /Content you'll find the centerpiece Comparison_table.pdf\* which contains the results based on digging through documentations, tutorials and some experimenting with each tool. 
 
@@ -15,7 +15,7 @@ Each tool generates metadata on its way and debugging is made easier with flatte
 
 For better comparison I decided to use fix parameters.
 
-Parameters to use, based on the [docs](!https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.ElasticNet.html) for the model:
+Parameters to use, based on the [docs](https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.ElasticNet.html) for the model:
 
 learing_rate: 0.1  (Generally between: ]0.0 ..1.0[ -> hypertuning)
 random_state: 42
