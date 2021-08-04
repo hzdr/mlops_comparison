@@ -1,6 +1,6 @@
 ## General:
 
-This repo contains the code and comparison table on which my blogpost [Comparing Metaflow, MLFlow and DVC]() was build upon.
+This repo contains the code and comparison table on which my blogpost [Comparing Metaflow, MLFlow and DVC](!https://nsultova.medium.com/) was build upon.
 
 In /Content you'll find the centerpiece Comparison_table.pdf\* which contains the results based on digging through documentations, tutorials and some experimenting with each tool. 
 
